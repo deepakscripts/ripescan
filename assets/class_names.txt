@@ -1,0 +1,10 @@
+apple
+avocado
+banana
+date
+guava
+hazelnut
+mango
+orange
+pomegranate
+tomato
