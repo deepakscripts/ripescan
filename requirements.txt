@@ -5,3 +5,4 @@ Pillow
 opencv-python
 streamlit
 plotly
+protobuf<=3.20.3
